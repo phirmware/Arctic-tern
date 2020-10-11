@@ -1,0 +1,15 @@
+{
+    "DB_CONFIG": {
+        "username": "phirmware",
+        "password": "itachi1",
+        "url": "mongodb://phirmware:itachi1@ds361998.mlab.com:61998/arctic-tern",
+        "dbname": "arctic-tern"
+    },
+    "Annotations": {
+        "environment": "development",
+        "note": "Application running in development environment"
+    },
+    "jwt": {
+        "key": "jwt-key"
+    }
+}
